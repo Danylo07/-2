@@ -1,1 +1,9 @@
-# -2
+https://en.cppreference.com/w/cpp/language/constructor
+https://en.cppreference.com/w/cpp/language/default_constructor
+https://en.cppreference.com/w/cpp/language/copy_constructor
+https://en.cppreference.com/w/cpp/language/move_constructor
+https://www.learncpp.com/cpp-tutorial/destructors/
+https://www.learncpp.com/cpp-tutorial/introduction-to-destructors/
+https://learn.microsoft.com/en-us/cpp/cpp/destructors-cpp?view=msvc-170
+https://www.learncpp.com/cpp-tutorial/virtual-destructors-virtual-assignment-and-overriding-virtualization/
+https://leimao.github.io/blog/CPP-Base-Class-Destructors/
